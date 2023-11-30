@@ -29,18 +29,3 @@ https://github.com/RoiYehezkel/The-Guardian/assets/88332335/1152368a-5326-4576-9
 
 <br />
 
----
-
-<br />
-
-### Features Included 🚀:
-
-- Full integration with the Instagram Basic Display API.
-- Creating a MongoDB schema with Mongoose framework.
-- Third-party library 'axios' to make HTTP/HTTPS requests from the frontend to the backend.
-
-<br />
-
----
-
-<br />
