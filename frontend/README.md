@@ -2,7 +2,7 @@
 <br />
 <div align="center">
     <a href="#">
-     <img src="public/images/logo.png" alt="vioreach" width="400" height="270" style="pointer-events: none;" />
+     <img src="public/images/logo.png" alt="the-guardian" width="400" height="270" style="pointer-events: none;" />
     </a>
    
 </div>
@@ -25,7 +25,7 @@ The client side is built using React.js and was fully desinged by us. (Myself an
 
 <br />
 
-https://github.com/RoiYehezkel/The-Guardian/assets/88332335/d3cf546d-dc50-4f82-9c45-2030bf258523
+https://github.com/RoiYehezkel/The-Guardian/assets/88332335/1152368a-5326-4576-959a-8130735d3436
 
 <br />
 
