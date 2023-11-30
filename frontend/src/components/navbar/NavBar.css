@@ -1,0 +1,32 @@
+.navbar-button-signup {
+  margin-right: 10px;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: white;
+  padding: 0rem;
+}
+
+.navbar-logo {
+  height: 60px;
+}
+
+.welcome-text {
+  color: #fff;
+  display: flex;
+  padding-bottom: 0.5rem;
+  align-items: center;
+  height: 100%;
+}
+.hello-text {
+  padding-right: 1rem;
+}
+
+.out-text {
+  align-items: center;
+  padding-bottom: 0.5rem;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
